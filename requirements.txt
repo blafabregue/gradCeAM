@@ -1,0 +1,10 @@
+matplotlib>=3.0.0
+numpy>=1.19.0
+scikit_learn>=0.24.1
+scipy>=1.4.0
+sktime>=0.5.2
+tensorflow>=2.3.0
+opencv-python
+cairosvg
+imutils
+tensorflow-datasets
